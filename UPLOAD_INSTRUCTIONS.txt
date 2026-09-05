@@ -1,0 +1,17 @@
+MAYUR PRINT & PACK — FINAL HOSTINGER PACKAGE
+Domain: https://www.mayurprint.in/
+
+HOSTINGER:
+1. Open File Manager > public_html
+2. Take a backup of the existing live website.
+3. Delete/replace the old website files inside public_html.
+4. Upload this ZIP and Extract directly inside public_html.
+5. Confirm index.html, assets folder, robots.txt, sitemap.xml and .htaccess are directly inside public_html.
+6. Open https://www.mayurprint.in/ and hard-refresh (Ctrl+F5).
+7. In Google Search Console submit: https://www.mayurprint.in/sitemap.xml
+
+Performance:
+- Embedded base64 images were extracted to /assets/images/
+- Images were resized/converted to WebP
+- Gallery/product images use lazy loading
+- Browser caching and gzip rules are included
